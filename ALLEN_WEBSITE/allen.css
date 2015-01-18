@@ -1,0 +1,74 @@
+.fb-share-button {
+width:60px;
+  top: -7px;
+}
+
+.carousel{
+    
+     background-image: url('black.jpg');
+
+}
+
+.form-control{
+   width: 200px;
+      left: 0px;
+}
+
+.jumbotron{
+    padding: 0.5em 0.6em;
+    width: 1000px;
+    
+}
+
+.carousel-control.left{
+ background-image: url('arrow_left.png');
+ background-repeat: no-repeat;
+ background-position: 100% 50%;
+}
+
+.carousel-control.right{
+ background-image: url('arrow_right.png');
+ background-repeat: no-repeat;
+ background-position: 0% 50%
+}
+
+body {
+   background: url("images.jpg") no-repeat center center fixed; 
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
+  background-size: cover;
+}
+.dropdown{
+    top: 25px;
+   left: 870px;
+}
+.pull-right{
+    right: 75px;
+}
+.allen{
+  width: 800px;
+  height: 600px;
+  max-height: 600px;
+  max-width: 800px;
+};
+
+.pic192{
+     width: 800px;
+  height: 600px;
+  max-height: 600px;
+ max-width: 800px;
+}
+
+.heavybreathing{
+ width: 800px;
+ height: 600px;
+ max-height: 600px;
+ max-width: 800px;
+}
+
+
+.carousel-inner > .item {
+    text-align: center;
+}
+
